@@ -1,0 +1,43 @@
+[
+    {
+      "id": 6,
+      "category": "Mochilas deportivas",
+      "name": "Gym Bag",
+      "price": 50,
+      "image": "/images/gym-bag.jpg",
+      "description": "Bolso de gimnasio práctico."
+    },
+    {
+      "id": 7,
+      "category": "Ciclismo",
+      "name": "Casco de ciclismo",
+      "price": 25,
+      "image": "/images/cycling-helmet.jpeg",
+      "description": "Casco de ciclismo seguro."
+    },
+    {
+      "id": 8,
+      "category": "Ciclismo",
+      "name": "Guantes de ciclismo",
+      "price": 25,
+      "image": "/images/cycling-gloves.jpg",
+      "description": "Guantes de ciclismo cómodos."
+    },
+    {
+      "id": 9,
+      "category": "Boxeo",
+      "name": "Guantes de boxeo",
+      "price": 20,
+      "image": "/images/boxing-gloves.jpeg",
+      "description": "Guantes de boxeo profesionales."
+    },
+    {
+      "id": 10,
+      "category": "Boxeo",
+      "name": "Saco de boxeo",
+      "price": 20,
+      "image": "/images/punching-bag.jpeg",
+      "description": "Saco de boxeo resistente."
+    }
+  ]
+  

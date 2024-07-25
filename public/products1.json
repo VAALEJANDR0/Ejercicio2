@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "category": "Yoga y Pilates",
+      "name": "Colchoneta de yoga",
+      "price": 35,
+      "image": "/images/yoga-mat.jpg",
+      "description": "Colchoneta de yoga de alta calidad."
+    },
+    {
+      "id": 2,
+      "category": "Yoga y Pilates",
+      "name": "Pelota de pilates",
+      "price": 35,
+      "image": "/images/pilates-ball.jpg",
+      "description": "Pelota de pilates para ejercicios."
+    },
+    {
+      "id": 3,
+      "category": "Futbol",
+      "name": "Balon de futbol",
+      "price": 30,
+      "image": "/images/soccer-ball.jpg",
+      "description": "Balón de futbol duradero."
+    },
+    {
+      "id": 4,
+      "category": "Futbol",
+      "name": "Tacos de futbol",
+      "price": 30,
+      "image": "/images/soccer-cleats.jpeg",
+      "description": "Botines de futbol cómodos."
+    },
+    {
+      "id": 5,
+      "category": "Mochilas deportivas",
+      "name": "Mochila deportiva",
+      "price": 50,
+      "image": "/images/sports-backpack.jpeg",
+      "description": "Mochila deportiva espaciosa."
+    }
+  ]
+  
